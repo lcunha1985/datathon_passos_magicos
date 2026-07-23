@@ -1,3 +1,6 @@
+
+Para acessar ao dashboard de Risco de defasagem, basta acessar https://paapps-magicos.streamlit.app/
+
 # Passos Mágicos — Risco de Defasagem Educacional
 
 Aplicativo Streamlit que estima a chance de um aluno estar em **defasagem escolar no ano
@@ -124,3 +127,9 @@ tests/               39 testes (pytest)
   `PEDE_PASSOS_DATASET_FIAP.csv` (2020-2022) em vez da base PEDE 2022-2024. É uso de
   desenvolvimento/teste — os agregados em `app/core_negocio.py` devem ser reprocessados com a
   base 2024 para homologação fora da amostra assim que ela estiver disponível.
+
+
+## Autores
+Leandro Cunha de Souza, Rodrigo Lino Olonca, Ellen Maira Frias Evangelista de Souza, Luiz Otávio Gomes Soares Oliveira, Juliana Rosa Malta Pereira — FIAP POSTECH Data Analytics Repositório: datathon_passos_magicos
+
+
